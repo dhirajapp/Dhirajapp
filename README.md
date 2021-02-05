@@ -48,8 +48,8 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
   <img width="550px" height="245px" align="center" src="https://github-readme-stats.vercel.app/api?username=Dhiraj31298&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhiraj's GitHub Stats" />
 </a>
 
-<a width="800px" href="https://github.com/vaulstein/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj31298&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a width="800px" href="https://github.com/Dhiraj31298/mycart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj31298&repo=mycart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
