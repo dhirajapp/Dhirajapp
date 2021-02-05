@@ -35,11 +35,12 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
 
+<img align="right" alt="GIF" src="https://github.com/Dhiraj31298/Dhiraj31298/blob/main/code.gif" width="500" height="320" />
 ## &#x1f4bb; Stackoverflow
 
 [![SO](https://stackoverflow.com/users/flair/1934182.png "SO")](https://stackoverflow.com/users/14996254/dhiraj)
 
-<img align="right" alt="GIF" src="https://github.com/Dhiraj31298/Dhiraj31298/code.gif" width="500" height="320" />
+
 
 ## &#x1f4c8; GitHub Stats
 
