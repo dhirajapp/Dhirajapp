@@ -56,10 +56,6 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj31298&repo=BACHPAN-Ek-Naya-Savera-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a width="800px" href="https://github.com/Dhiraj31298/Black_Jack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj31298&repo=Black_Jack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
 
 
