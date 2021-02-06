@@ -1,9 +1,5 @@
 
 
-<!--
-**Dhiraj31298/Dhiraj31298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
 My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
