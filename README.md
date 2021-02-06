@@ -29,15 +29,15 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Dhiraj31298/Dhiraj31298">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj31298&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/dhirajapp/dhirajapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajapp&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Dhiraj31298/Dhiraj31298">
-  <img width="550px" height="245px" align="center" src="https://github-readme-stats.vercel.app/api?username=Dhiraj31298&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhiraj's GitHub Stats" />
+<a href="https://github.com/dhirajapp/dhirajapp">
+  <img width="550px" height="245px" align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajapp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhiraj's GitHub Stats" />
 </a>
 
-<a width="800px" href="https://github.com/Dhiraj31298/BACHPAN-Ek-Naya-Savera-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhiraj31298&repo=BACHPAN-Ek-Naya-Savera-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a width="800px" href="https://github.com/dhirajapp/BACHPAN-Ek-Naya-Savera-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhirajapp&repo=BACHPAN-Ek-Naya-Savera-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
