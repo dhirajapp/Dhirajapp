@@ -23,7 +23,7 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
 
 ## &#x1f4bb; Stackoverflow
 
-[![SO](https://stackoverflow.com/users/flair/1934182.png "SO")](https://stackoverflow.com/users/14996254/dhiraj)
+[![SO](https://stackoverflow.com/users/14996254.png "SO")](https://stackoverflow.com/users/14996254/dhiraj)
 
 
 
