@@ -14,10 +14,8 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node%20Js-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 
 <img align="right" alt="GIF" src="https://github.com/Dhiraj31298/Dhiraj31298/blob/main/code.gif" width="500" height="320" />
 
