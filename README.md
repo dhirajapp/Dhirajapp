@@ -2,11 +2,11 @@
 
 # Hello, folks! <img src="https://github.com/Dhiraj31298/Dhiraj31298/blob/main/wave.gif" width="30px">
 
-My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
 
 ### Connect with me:
 
-[<img align="left" alt="rahulraina711 | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="dhirajapp | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][3].
 
 <br />
 <br />
