@@ -5,6 +5,7 @@ My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India.
 ### Connect with me:
 
 [<img align="left" alt="dhirajapp | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][3].
+<a href="https://www.instagram.com/dhirajkumar405/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhirajkumar405" height="40" width="40" /></a>
 <br/>
 
 ## 🔧 Technologies & Tools
