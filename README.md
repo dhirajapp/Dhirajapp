@@ -1,7 +1,5 @@
 <img src="header.svg"></img>
 
-My name is Dhiraj Kumar and I'm a software developer. I'm from New Delhi,India. 
-
 ### Connect with me:
 
 [<img align="left" alt="dhirajapp | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][3].
