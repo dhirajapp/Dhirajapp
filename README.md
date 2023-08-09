@@ -3,7 +3,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/dhiraj-kumar-144320161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhirajkumar" height="40" width="40" /></a>
-<a href="https://www.instagram.com/dhirajkumar405/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhirajkumar405" height="40" width="40" /></a>
+<a href="https://www.instagram.com/dhiraj_kr.98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dhirajkumar405" height="40" width="40" /></a>
 <br/>
 
 ## 🔧 Technologies & Tools
